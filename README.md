@@ -43,5 +43,5 @@ You can run the unit tests with the following command:
     $ phpunit
 
 
-Isidra Aluarado-- Web Devaloper
+Isidra Aluarado-- Web Devaloper at
 http://quoteshunter.com/sad-quotes
