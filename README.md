@@ -44,4 +44,4 @@ You can run the unit tests with the following command:
 
 
 Isidra Aluarado-- Web Devaloper at
-http://quoteshunter.com/sad-quotes
+ http://anniversaryquotes.net/
